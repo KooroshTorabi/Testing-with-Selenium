@@ -75,8 +75,10 @@ for book in allbooks:
     worksheet1.write(i, 2, Description.text)
     worksheet1.write(i, 3, BookImage.get_attribute("src"))
     i += 1
-    driver.find_element(
-        By.CSS_SELECTOR, "#main-image .block > .w-full").click()
+    driver.get("https://bookshop.org/")
+    # time.sleep(960)
+    # driver.find_element(
+    #     By.CSS_SELECTOR, "#main-image > .reletive > .block > .w-full").click()
 # time.sleep(60)
 workbook.save('bookdata.xls')
 
