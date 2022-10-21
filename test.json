@@ -1,0 +1,20 @@
+{
+    'book': {
+        'publisher': 'Back Bay Books',
+        'synopsis': '<p><P>As part of Back Bay\'s ongoing effort to make the works of John Fowles available in uniform trade paperback editions, two major works in the Fowles canon are reissued to coincide with the publication of Wormholes, the author\'s long-awaited new collection of essays and occasional writings.<P>Perhaps the most beloved of Fowles\'s internationally bestselling works, The French Lieutenant\'s Woman is a feat of seductive storytelling that effectively invents anew the Victorian novel. "Filled with enchanting mysteries and magically erotic possibilities" (New York Times), the novel inspired the hugely successful 1981 film starring Meryl Streep and Jeremy Irons and is today universally regarded as a modern classic.<P>In A Maggot, originally published in 1985, Fowles reaches back to the eighteenth century to offer readers a glimpse into the future. Time magazine called the result "hypnotic....A remarkable achievement. Part detective story, part crackling courtroom drama....An immensely rich and readable novel".</p><h3>Gale Research</h3><p>By giving characters their freedom, Fowles also liberates himself from the tyranny of the rigid plan; but there remains a more basic limitation of fiction, and from this Fowles frees himself by means of his double ending: "The novelist is still a god," Fowles says in <I>The French Lieutenant\'s Woman,</I> "since he creates (and not even the most aleatory avant-garde modern novel has managed to extirpate its author completely); what has changed is that we are no longer the gods of the Victorian image, omniscient and decreeing; but in the new theological image, with freedom our first principle, not authority." Thus, although the novel seems in many ways a Victorian novel, the author reminds the reader that it is not; it is actually a novel of our time, with "this self-consciousness about the processes of art [that] is a hallmark of much twentieth-century fiction.</p>',
+        'language': 'en',
+        'image': 'https://images.isbndb.com/covers/11/63/9780316291163.jpg',
+        'title_long': "The French Lieutenant's Woman",
+        'edition': '1st Back Bay pbk. ed',
+        'dimensions': 'Height: 8.375 Inches, Length: 5.5 Inches, Weight: 0.98 Pounds, Width: 1.375 Inches',
+        'pages': 467,
+        'date_published': '1998',
+        'authors': ['Fowles, John'],
+        'title': "The French Lieutenant's Woman",
+        'isbn13': '9780316291163',
+        'msrp': 16,
+        'binding': 'Paperback',
+        'isbn': '0316291161',
+        'isbn10': '0316291161'
+    }
+}
